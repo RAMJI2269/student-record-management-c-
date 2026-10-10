@@ -27,17 +27,17 @@ The Student Record Management System is a menu-driven C programming project that
 
 ## How to Compile
 
-```bash
-gcc -Wall -Wextra -std=c11 main.c -o main
-```
+
+gcc -Wall -Wextra -std=c11 Student_Record_Management.c -o main
+
 
 ## How to Run
 
-On Windows:
 
-```powershell
+
+
 .\main.exe
-```
+
 
 ## Data Storage
 
